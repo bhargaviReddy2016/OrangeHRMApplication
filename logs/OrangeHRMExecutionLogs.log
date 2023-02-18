@@ -1,0 +1,48 @@
+[INFO ] 17-02-2023 09:09:59.074 TC002_NumberOfLinks - Chrome browser is launched
+[INFO ] 17-02-2023 09:10:04.392 TC002_NumberOfLinks - Orange HRM application is launched
+[INFO ] 17-02-2023 09:10:06.429 TC002_NumberOfLinks - The count of links on Orange HRM application Login page are -5
+[INFO ] 17-02-2023 09:10:07.124 TC002_NumberOfLinks - Orange HRM application is closed successfully
+[INFO ] 17-02-2023 09:10:10.753 TC001_VerifyDashboardText - Chrome browser is launched
+[INFO ] 17-02-2023 09:10:16.026 TC001_VerifyDashboardText - Orange HRM application is launched
+[INFO ] 17-02-2023 09:10:25.197 TC001_VerifyDashboardText - Dashboard text is present on the top
+[INFO ] 17-02-2023 09:10:26.205 TC001_VerifyDashboardText - Orange HRM application is closed successfully
+[INFO ] 17-02-2023 09:51:46.288 TC001_VerifyDashboardText - Chrome browser is launched
+[INFO ] 17-02-2023 09:51:54.893 TC001_VerifyDashboardText - Orange HRM application is launched
+[INFO ] 17-02-2023 09:52:05.260 TC001_VerifyDashboardText - Dashboard text is present on the top
+[INFO ] 17-02-2023 09:52:06.184 TC001_VerifyDashboardText - Orange HRM application is closed successfully
+[INFO ] 17-02-2023 09:57:43.387 TC002_NumberOfLinks - Chrome browser is launched
+[INFO ] 17-02-2023 09:57:49.031 TC002_NumberOfLinks - Orange HRM application is launched
+[INFO ] 17-02-2023 09:57:50.642 TC002_NumberOfLinks - The count of links on Orange HRM application Login page are -5
+[INFO ] 17-02-2023 09:57:51.706 TC002_NumberOfLinks - Orange HRM application is closed successfully
+[INFO ] 18-02-2023 12:04:39.214 TC002_NumberOfLinks - Chrome browser is launched
+[INFO ] 18-02-2023 12:04:43.244 TC002_NumberOfLinks - Orange HRM application is launched
+[INFO ] 18-02-2023 12:04:44.976 TC002_NumberOfLinks - The count of links on Orange HRM application Login page are -5
+[INFO ] 18-02-2023 12:04:45.594 TC002_NumberOfLinks - Orange HRM application is closed successfully
+[INFO ] 18-02-2023 12:04:49.062 TC001_VerifyDashboardText - Chrome browser is launched
+[INFO ] 18-02-2023 12:04:52.890 TC001_VerifyDashboardText - Orange HRM application is launched
+[INFO ] 18-02-2023 12:05:00.158 TC001_VerifyDashboardText - Dashboard text is present on the top
+[INFO ] 18-02-2023 12:05:00.911 TC001_VerifyDashboardText - Orange HRM application is closed successfully
+[INFO ] 18-02-2023 12:29:19.346 TC002_NumberOfLinks - Chrome browser is launched
+[INFO ] 18-02-2023 12:29:23.121 TC002_NumberOfLinks - Orange HRM application is launched
+[INFO ] 18-02-2023 12:29:24.395 TC002_NumberOfLinks - The count of links on Orange HRM application Login page are -5
+[INFO ] 18-02-2023 12:29:25.006 TC002_NumberOfLinks - Orange HRM application is closed successfully
+[INFO ] 18-02-2023 12:29:28.053 TC001_VerifyDashboardText - Chrome browser is launched
+[INFO ] 18-02-2023 12:29:31.788 TC001_VerifyDashboardText - Orange HRM application is launched
+[INFO ] 18-02-2023 12:29:38.780 TC001_VerifyDashboardText - Dashboard text is present on the top
+[INFO ] 18-02-2023 12:29:39.277 TC001_VerifyDashboardText - Orange HRM application is closed successfully
+[INFO ] 18-02-2023 12:41:02.457 TC002_NumberOfLinks - Chrome browser is launched
+[INFO ] 18-02-2023 12:41:06.034 TC002_NumberOfLinks - Orange HRM application is launched
+[INFO ] 18-02-2023 12:41:07.313 TC002_NumberOfLinks - The count of links on Orange HRM application Login page are -5
+[INFO ] 18-02-2023 12:41:08.474 TC002_NumberOfLinks - Orange HRM application is closed successfully
+[INFO ] 18-02-2023 12:41:13.152 TC001_VerifyDashboardText - Chrome browser is launched
+[INFO ] 18-02-2023 12:41:17.086 TC001_VerifyDashboardText - Orange HRM application is launched
+[INFO ] 18-02-2023 12:41:23.478 TC001_VerifyDashboardText - Dashboard text is present on the top
+[INFO ] 18-02-2023 12:41:24.069 TC001_VerifyDashboardText - Orange HRM application is closed successfully
+[INFO ] 18-02-2023 12:54:43.658 TC002_NumberOfLinks - Chrome browser is launched
+[INFO ] 18-02-2023 12:54:50.660 TC002_NumberOfLinks - Orange HRM application is launched
+[INFO ] 18-02-2023 12:54:54.093 TC002_NumberOfLinks - The count of links on Orange HRM application Login page are -5
+[INFO ] 18-02-2023 12:54:55.073 TC002_NumberOfLinks - Orange HRM application is closed successfully
+[INFO ] 18-02-2023 12:54:59.358 TC001_VerifyDashboardText - Chrome browser is launched
+[INFO ] 18-02-2023 12:55:03.849 TC001_VerifyDashboardText - Orange HRM application is launched
+[INFO ] 18-02-2023 12:55:10.286 TC001_VerifyDashboardText - Dashboard text is present on the top
+[INFO ] 18-02-2023 12:55:11.458 TC001_VerifyDashboardText - Orange HRM application is closed successfully

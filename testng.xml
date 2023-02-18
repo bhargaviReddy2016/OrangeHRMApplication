@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite">
+<parameter name="browserName" value="chrome"></parameter>
+	<listeners>
+		<listener class-name="com.OrangeHRM.utils.Listeners_Util">
+		</listener>
+	</listeners>
+  <test name="TC002_NumberOfLinks">
+    <classes>
+      	<class name="com.OrangeHRM.testCases.TC002_NumberOfLinks"/>
+    </classes>
+  </test>
+  <test name="TC001_VerifyDashboardText">
+    <classes>
+    	 <class name="com.OrangeHRM.testCases.TC001_VerifyDashboardText"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- RegressionSuite -->

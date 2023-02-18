@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RegressionSuite" duration-ms="34669" started-at="2023-02-18T05:54:36Z" finished-at="2023-02-18T05:55:11Z">
+    <groups>
+    </groups>
+    <test name="TC002_NumberOfLinks" duration-ms="18287" started-at="2023-02-18T05:54:36Z" finished-at="2023-02-18T05:54:55Z">
+      <class name="com.OrangeHRM.testCases.TC002_NumberOfLinks">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.OrangeHRM.testCases.TC002_NumberOfLinks@719fb6]" name="setup" is-config="true" duration-ms="13829" started-at="2023-02-18T05:54:36Z" finished-at="2023-02-18T05:54:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="countOfLinks()[pri:0, instance:com.OrangeHRM.testCases.TC002_NumberOfLinks@719fb6]" name="countOfLinks" duration-ms="3413" started-at="2023-02-18T05:54:50Z" finished-at="2023-02-18T05:54:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countOfLinks -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.OrangeHRM.testCases.TC002_NumberOfLinks@719fb6]" name="closeApplication" is-config="true" duration-ms="978" started-at="2023-02-18T05:54:54Z" finished-at="2023-02-18T05:54:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.OrangeHRM.testCases.TC002_NumberOfLinks -->
+    </test> <!-- TC002_NumberOfLinks -->
+    <test name="TC001_VerifyDashboardText" duration-ms="16341" started-at="2023-02-18T05:54:55Z" finished-at="2023-02-18T05:55:11Z">
+      <class name="com.OrangeHRM.testCases.TC001_VerifyDashboardText">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.OrangeHRM.testCases.TC001_VerifyDashboardText@138dc9b]" name="setup" is-config="true" duration-ms="8739" started-at="2023-02-18T05:54:55Z" finished-at="2023-02-18T05:55:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkDashboardText()[pri:0, instance:com.OrangeHRM.testCases.TC001_VerifyDashboardText@138dc9b]" name="checkDashboardText" duration-ms="6427" started-at="2023-02-18T05:55:03Z" finished-at="2023-02-18T05:55:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDashboardText -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.OrangeHRM.testCases.TC001_VerifyDashboardText@138dc9b]" name="closeApplication" is-config="true" duration-ms="1171" started-at="2023-02-18T05:55:10Z" finished-at="2023-02-18T05:55:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.OrangeHRM.testCases.TC001_VerifyDashboardText -->
+    </test> <!-- TC001_VerifyDashboardText -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>
